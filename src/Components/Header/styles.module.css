@@ -1,0 +1,16 @@
+.logo {
+  color: #fff;
+  font-size: 30px;
+}
+
+.logo a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.cart {
+  cursor: pointer;
+  position: relative;
+  color: #fff;
+  font-size: 30px;
+}
